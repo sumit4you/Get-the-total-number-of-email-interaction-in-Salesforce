@@ -1,8 +1,8 @@
-# How-to-count-sent-and-received-email-messages-in-case-Salesforce
+# Count-Inbound-and-outbound-email-messages-in-Salesforce
 
-This code block will help you to know total email interaction of a case.
+This code block will help you to know the total email interaction with the case.
 
-Before implementing this code, you have to create two custom Number(18,0) fields on Case Object.
+Before implementing this code block, you have to create two custom fields in the Case Object.
 
 Incoming Email Count       
 ----
