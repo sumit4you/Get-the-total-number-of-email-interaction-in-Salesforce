@@ -1,4 +1,4 @@
-# Count-Inbound-and-outbound-email-messages-in-Salesforce
+#  Get-the-total-number-of-email-interaction-in-Salesforce
 
 This code block will help you to know the total email interaction with the case.
 
